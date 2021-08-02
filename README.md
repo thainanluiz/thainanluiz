@@ -33,11 +33,3 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 
 </div>
-  
-  ##
-  
-<div>
- 
-  ![Snake animation](https://https:github.com/thainanluiz/thainanluiz/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
