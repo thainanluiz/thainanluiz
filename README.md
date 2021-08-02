@@ -1,16 +1,35 @@
-### Hi there 👋
+## Olá seja bem vindo ao meu perfil! Eu sou o Thainan  Luiz! 
+ <div>
+  <a href="https://github.com/thainanluiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainanluiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=#fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainanluiz&layout=compact&count_private=true&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thainan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thainan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thainan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thainan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thainan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thainan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
-<!--
-**ThainanLuiz/thainanluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+<div style="justify-content: space-between"> 
+  <a href="https://instagram.com/thainan.luiz7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/QrUHtHQMnY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thainandj@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thainanluiz12345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</div>
+  
+  ##
+  
+<div>
+  ![Snake animation](https://https://github.com/ThainanLuiz/thainanluiz/blob/output/github-contribution-grid-snake.svg)
+</div>
