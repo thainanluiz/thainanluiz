@@ -31,5 +31,5 @@
   ##
   
 <div>
-  ![Snake animation](https://https://github.com/ThainanLuiz/thainanluiz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://https://github.com/thainanluiz/thainanluiz/blob/output/github-contribution-grid-snake.svg)
 </div>
