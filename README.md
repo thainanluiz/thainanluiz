@@ -32,4 +32,6 @@
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 
+ ![Snake animation](https://github.com/thainanluiz/thainanluiz/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
