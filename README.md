@@ -34,3 +34,15 @@
  ![Snake animation](https://github.com/thainanluiz/thainanluiz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+<div>
+ 
+ <span>12   - Repositórios</span>
+ <span>7    - Projetos</span>
+ <span>+100 - Commits</span>
+ <span>2    - Estrelas</span>
+ <span>2    - Integrações/span>
+
+</div>
