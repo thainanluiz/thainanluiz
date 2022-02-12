@@ -44,5 +44,6 @@
  <span>+100 - Commits | </span>
  <span>2    - Estrelas | </span>
  <span>2    - Integrações | </span>
+ <span>A+   - Rank</span>
 
 </div>
