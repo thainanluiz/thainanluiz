@@ -39,10 +39,10 @@
 
 <div>
  
- <span>12   - Repositórios</span>
- <span>7    - Projetos</span>
- <span>+100 - Commits</span>
- <span>2    - Estrelas</span>
- <span>2    - Integrações/span>
+ <span>12   - Repositórios | </span>
+ <span>7    - Projetos | </span>
+ <span>+100 - Commits | </span>
+ <span>2    - Estrelas | </span>
+ <span>2    - Integrações | </span>
 
 </div>
