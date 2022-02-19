@@ -11,11 +11,11 @@
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Thainan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thainan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thainan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thainan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thainan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Thainan-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"> 
-  <img align="center" alt="Thainan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thainan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
 
@@ -39,11 +39,11 @@
 
 <div>
  
- <span>12   - Repositórios | </span>
- <span>7    - Projetos | </span>
+ <span>+15   - Repositórios (privados e publicos) | </span>
+ <span>10    - Projetos (andamento e parados) | </span>
  <span>+100 - Commits | </span>
  <span>2    - Estrelas | </span>
- <span>2    - Integrações | </span>
+ <span>+5    - Integrações | </span>
  <span>A+   - Rank</span>
 
 </div>
