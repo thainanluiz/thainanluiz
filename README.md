@@ -1,4 +1,4 @@
-## Olá seja bem vindo ao meu perfil! Eu sou o Thainan  Luiz! 
+# Olá seja bem vindo ao meu perfil! Eu sou o Thainan  Luiz! 
  <div>
  
   <a href="https://github.com/thainanluiz">
