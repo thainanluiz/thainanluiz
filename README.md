@@ -45,7 +45,7 @@
  <span>+30   - Repositórios (privados e publicos) | </span>
  <span>10    - Projetos (andamento e parados) | </span>
  <span>+150 - Commits | </span>
- <span>+30    - Estrelas | </span>
+ <span>+5    - Estrelas | </span>
  <span>+5    - Integrações | </span>
  <span>A+   - Rank</span>
 </div>
