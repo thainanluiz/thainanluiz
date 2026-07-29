@@ -1,30 +1,27 @@
-name: generate animation
+name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 3 * * 6"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
+    name: generate-github-profile-summary-cards
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -3
+          EXCLUDE: ""
+          AUTO_PUSH: true
